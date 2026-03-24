@@ -4,13 +4,7 @@ const get_essentials = document.getElementById("essentials-row");
 
 
 //----------------------------search-input-------------------------//
-function search() {
-  
 
-
-
-
-}
 
 
 
