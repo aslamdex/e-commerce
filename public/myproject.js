@@ -13,7 +13,7 @@ const get_essentials = document.getElementById("essentials-row");
 
 const mobileData = [
     {
-        image: "/image-mobile/image3(5).png",
+        image: "/public/image-mobile/image_3.png",
         name: "Galaxy S22 (4GB | 64GB)",
         price: "29999",
         delete: "33999",
@@ -22,7 +22,7 @@ const mobileData = [
     },
 
     {
-        image: "/image-mobile/image3(6).png",
+        image: "/public/image-mobile/image_4.png",
         name: "Galaxy M13 (4GB | 64GB)",
         price: "10999",
         delete: "13999",
@@ -30,7 +30,7 @@ const mobileData = [
     },
 
     {
-        image: "/image-mobile/image3(7).png",
+        image: "/public/image-mobile/image_5.png",
         name: "Galaxy M33 (4GB | 64GB)",
         price: "16999",
         delete: "24999",
@@ -38,7 +38,7 @@ const mobileData = [
     },
 
     {
-        image: "/image-mobile/image3.png",
+        image: "/public/image-mobile/image_6.png",
         name: "Galaxy M53 (4GB | 64GB)",
         price: "31999",
         delete: "40999",
@@ -46,7 +46,7 @@ const mobileData = [
     },
 
     {
-        image: "/image-mobile/image4.png",
+        image: "/public/image-mobile/image_7.png",
         name: "Galaxy S22 (8GB | 128GB)",
         price: "67999",
         delete: "85999",
@@ -54,7 +54,7 @@ const mobileData = [
     },
 
     {
-        image: "/image-mobile/image3(5).png",
+        image: "/public/image-mobile/image_3.png",
         name: "Galaxy S22 (4GB | 64GB)",
         price: "29999",
         delete: "33999",
@@ -63,7 +63,7 @@ const mobileData = [
     },
 
     {
-        image: "/image-mobile/image3(6).png",
+        image: "/public/image-mobile/image_4.png",
         name: "Galaxy M13 (4GB | 64GB)",
         price: "10999",
         delete: "13999",
@@ -71,7 +71,7 @@ const mobileData = [
     },
 
     {
-        image: "/image-mobile/image3(7).png",
+        image: "/public/image-mobile/image_5.png",
         name: "Galaxy M33 (4GB | 64GB)",
         price: "16999",
         delete: "24999",
@@ -79,7 +79,7 @@ const mobileData = [
     },
 
     {
-        image: "/image-mobile/image3.png",
+        image: "/public/image-mobile/image_6.png",
         name: "Galaxy M53 (4GB | 64GB)",
         price: "31999",
         delete: "40999",
@@ -87,7 +87,7 @@ const mobileData = [
     },
 
     {
-        image: "/image-mobile/image4.png",
+        image: "/public/image-mobile/image_3.png",
         name: "Galaxy S22 (8GB | 128GB)",
         price: "67999",
         delete: "85999",
@@ -95,7 +95,7 @@ const mobileData = [
     },
 
     {
-        image: "/image-mobile/image3.png",
+        image: "/public/image-mobile/image_7.png",
         name: "Galaxy M53 (4GB | 64GB)",
         price: "31999",
         delete: "40999",
@@ -103,7 +103,7 @@ const mobileData = [
     },
 
     {
-        image: "/image-mobile/image4.png",
+        image: "/public/image-mobile/image_3.png",
         name: "Galaxy S22 (8GB | 128GB)",
         price: "67999",
         delete: "85999",
@@ -196,75 +196,75 @@ function aslam() {
 
 const essential = [
     {
-        image: "/image-fruit/84ef4761d810ce7468c5e5780d068a3fac851f31.png",
+        image: "/public/image-fruit/all.png",
         name: "Daily_essentials",
         discount: "UP TP 50% OFF",
 
     },
 
     {
-        image: "/image-fruit/c20c69140746bd0ca185ecdd3c37b3abed84092e.png",
+        image: "/public/image-fruit/mix.png",
         name: "Vegitable",
         discount: "UP TP 50% OFF",
     },
 
     {
-        image: "/image-fruit/f5881a4da43897933a2874adc8f24c5c7a1fd504.png",
+        image: "/public/image-fruit/fruits.png",
         name: "Fruits",
         discount: "UP TP 50% OFF",
     },
 
     {
-        image: "/image-fruit/013b733683de86d11ef1e91de7b94761d31548f9.png",
+        image: "/public/image-fruit/cherry.png",
         name: "Strowberry",
         discount: "UP TP 50% OFF",
     },
 
     {
-        image: "/image-fruit/c03fc4d01f2aa15690df58cc030b3f34b1822562.png",
+        image: "/public/image-fruit/mango.png",
         name: "Mango",
         discount: "UP TP 50% OFF",
     },
 
     {
-        image: "/image-fruit/d08bba5ab81cd73e763a7950a81e145046ce72c3.png",
+        image: "/public/image-fruit/angur.png",
         name: "cherry",
         discount: "UP TP 50% OFF",
     },
 
     {
-        image: "/image-fruit/84ef4761d810ce7468c5e5780d068a3fac851f31.png",
+        image: "/public/image-fruit/all.png",
         name: "Daily_essentials",
         discount: "UP TP 50% OFF",
 
     },
 
     {
-        image: "/image-fruit/c20c69140746bd0ca185ecdd3c37b3abed84092e.png",
+        image: "/public/image-fruit/mix.png",
         name: "Vegitable",
         discount: "UP TP 50% OFF",
     },
 
     {
-        image: "/image-fruit/f5881a4da43897933a2874adc8f24c5c7a1fd504.png",
+        image: "/public/image-fruit/fruits.png",
         name: "Fruits",
         discount: "UP TP 50% OFF",
     },
 
     {
-        image: "/image-fruit/013b733683de86d11ef1e91de7b94761d31548f9.png",
+        image: "/public/image-fruit/cherry.png",
         name: "Strowberry",
         discount: "UP TP 50% OFF",
     },
 
     {
-        image: "/image-fruit/c03fc4d01f2aa15690df58cc030b3f34b1822562.png",
+        image: "/public/image-fruit/mango.png",
         name: "Mango",
         discount: "UP TP 50% OFF",
     },
 
     {
-        image: "/image-fruit/d08bba5ab81cd73e763a7950a81e145046ce72c3.png",
+        image: "/public/image-fruit/angur.png",
         name: "cherry",
         discount: "UP TP 50% OFF",
     }
