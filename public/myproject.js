@@ -267,7 +267,7 @@ const essential = [
         image: "/public/image-fruit/angur.png",
         name: "cherry",
         discount: "UP TP 50% OFF",
-    }
+    },
 
 
 
